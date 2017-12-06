@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #eee;
+}
+
+#container {
+    display: table;
+    width: 100%;
+    height: 100vh;
+}
+
+#data {
+    font-size: 20em;
+    color: #202020;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}

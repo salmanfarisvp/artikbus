@@ -1,0 +1,33 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "creationData": {
+      "projectTypeName": "com.intel.xdk.projecttype.iotapp",
+      "src": "iotapp/iotapp-template-blank-iot/sample.zip",
+      "projectGuid": "a0b4610f-4dfc-463a-b30e-0fdd283d4d4f",
+      "lastModifiedDate": 1475083342541,
+      "creationDate": 1475083342223
+    },
+    "sourceDirectory": "",
+    "cordovaPluginsDirectory": "plugins",
+    "gameAssetDirectory": "asset",
+    "gameMetadata": {},
+    "startFile": "main.js",
+    "projectTags": [],
+    "projectFiles": {},
+    "projectDirectories": {
+      "xdk": {
+        "settings": {
+          "project": {
+            "XDK-generated": "true"
+          }
+        }
+      }
+    },
+    "libraries": [],
+    "cordovaPlugins": [],
+    "serviceMethods": [],
+    "buildConfigurations": {},
+    "testDirectory": "test"
+  }
+}

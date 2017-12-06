@@ -1,0 +1,58 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "ArtikBus.xdk": {
+        "previousModTime": 1475083342650,
+        "modified": 1475083342650,
+        "seen": true,
+        "name": "ArtikBus.xdk"
+      },
+      "ArtikBus.xdke": {
+        "previousModTime": 1475122125891,
+        "modified": 1475122125891,
+        "seen": true,
+        "name": "ArtikBus.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1475083342169,
+        "modified": 1475083342169,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1475119770284,
+        "modified": 1475119770284,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1475083342170,
+        "modified": 1475083342170,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1475083342170,
+        "modified": 1475083342170,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1475083342522,
+        "modified": 1475083342522,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
